@@ -1,0 +1,15 @@
+args : List all command arguments
+date : Current date/time
+exit : Stop all
+cp   : Copies files to another file
+mv   : moves files to another directory
+rmdir: Removes empty directory
+mkdir: Creates directory
+rm   : Removes files NOT directories
+cat  : Concstenate files and print on the standard output
+cd   : Change current directory to another one
+pwd  : Display current user directory
+clear: Called to clear the current terminal screen
+ls   : List each file or directory name
+more : Let us display and scroll down the output in one direction only
+help : Display all commands and its descriptions
